@@ -1,10 +1,4 @@
- /*
-    * Sample kobject implementation
-   *
-    * Copyright (C) 2004-2007 Greg Kroah-Hartman <greg@kroah.com>
-    * Copyright (C) 2007 Novell Inc.
-    *
-    * Released under the GPL version 2 only.
+he GPL version 2 only.
     *
     */
   #include <linux/kobject.h>
